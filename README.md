@@ -4,5 +4,5 @@
 
 ## Список задач
 
-- [Задача 1](./task1/task1.md) — решение: [task1.go](./task1/task1.go)
-- [Задача 2](./task2/task2.md) — решение: [task2.go](./task2/task2.go)
+- [Задача 1](./work/task1/task1.md) — решение: [task1.go](./work/task1/task1.go)
+- [Задача 2](./work/task2/task2.md) — решение: [task2.go](./work/task2/task2.go)
