@@ -1,3 +1,4 @@
+// Решение задачи 
 package main
 
 import "fmt"
