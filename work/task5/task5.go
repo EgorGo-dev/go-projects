@@ -1,4 +1,3 @@
-// 5
 package main
 
 import (
