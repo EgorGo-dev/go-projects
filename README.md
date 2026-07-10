@@ -21,7 +21,7 @@
 
 ## 🛠 Стек
 
-**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `errors` · `unicode/utf8` · `testing` · `math`
+**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `errors` · `slices` · `unicode/utf8` · `testing` · `math`
 
 ---
 
@@ -34,6 +34,7 @@
 - [Задача 3](./work/task3/task3.md) — решение: [task3.go](./work/task3/task3.go)
 - [Задача 4](./work/task4/task4.md) — решение: [task4.go](./work/task4/task4.go)
 - [Задача 5](./work/task5/task5.md) — решение: [task5.go](./work/task5/task5.go)
+- [Задача 6](./work/task6/task6.md) — решение: [task6.go](./work/task6/task6.go)
 
 ### 📌 Мелкие задачи
 
