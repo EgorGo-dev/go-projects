@@ -45,7 +45,9 @@
 
 ## 🏆 Сертификат
 
-<img src="./certificate/certificate.jpg" alt="Сертификат Яндекс Лицея" width="400">
+<center>
+  <img src="./certificate/certificate.jpg" alt="Сертификат" width="400">
+</center>
 
 *Сертификат об успешном завершении курса «Go-1 шаг за шагом» в Яндекс Лицее.*
 
