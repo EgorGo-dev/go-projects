@@ -3,7 +3,7 @@
 [![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go)](https://go.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/EgorGo-dev)
 [![GitHub stars](https://img.shields.io/github/stars/EgorGo-dev/go-projects?style=social)](https://github.com/EgorGo-dev/go-projects)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=EgorGo-dev%2Fgo-projects&label=Посетителей&countColor=%23263759)](https://github.com/EgorGo-dev)
+
 
 Здесь я храню решения задач по Go из **Яндекс Лицея** и других источников. Репозиторий показывает мой прогресс в изучении языка, владение Git и GitHub.
 
