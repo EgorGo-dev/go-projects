@@ -23,7 +23,7 @@
 
 ## 🛠 Стек
 
-**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `errors` · `slices` · `unicode/utf8` · `testing` · `math`
+**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `errors` · `slices` · `io` · `unicode/utf8` · `testing` · `math`
 
 ---
 
