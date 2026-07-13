@@ -37,6 +37,7 @@
 - [Задача 4](./work/task4/task4.md) — решение: [task4.go](./work/task4/task4.go)
 - [Задача 5](./work/task5/task5.md) — решение: [task5.go](./work/task5/task5.go)
 - [Задача 6](./work/task6/task6.md) — решение: [task6.go](./work/task6/task6.go)
+- [Задача 7](./work/task7/task7.md) — решение: [task7.go](./work/task7/task7.go)
 
 ### 📌 Мелкие задачи
 
