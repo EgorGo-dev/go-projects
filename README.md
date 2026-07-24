@@ -31,20 +31,23 @@
 
 ### ✅ Контрольные работы и сложные задачи
 
-| Задача | Решение |
-|--------|---------|
-| [Задача 1](./work/task1/task1.md) | [task1.go](./work/task1/task1.go) |
-| [Задача 2](./work/task2/task2.md) | [task2.go](./work/task2/task2.go) |
-| [Задача 3](./work/task3/task3.md) | [task3.go](./work/task3/task3.go) |
-| [Задача 4](./work/task4/task4.md) | [task4.go](./work/task4/task4.go) |
-| [Задача 5](./work/task5/task5.md) | [task5.go](./work/task5/task5.go) |
-| [Задача 6](./work/task6/task6.md) | [task6.go](./work/task6/task6.go) |
-| [Задача 7](./work/task7/task7.md) | [task7.go](./work/task7/task7.go) |
-| [Задача 8](./work/task8/task8.md) | [task8.go](./work/task8/task8.go) |
-| [Задача 9](./work/task9/task9.md) | [task9.go](./work/task9/task9.go) |
-| [Задача 10](./work/task10/task10.md) | [task10.go](./work/task10/task10.go) |
-| [Задача 11](./work/task11/task11.md) | [task11.go](./work/task11/task11.go) |
-| [Задача 12](./work/task12/task12.md) | [task12.go](./work/task12/task12.go) |
+### Контрольные работы и сложные задачи
+
+| № | Условие | Решение |
+|--:|---------|---------|
+| 1 | [📄 task1.md](./work/task1/task1.md) | [💻 task1.go](./work/task1/task1.go) |
+| 2 | [📄 task2.md](./work/task2/task2.md) | [💻 task2.go](./work/task2/task2.go) |
+| 3 | [📄 task3.md](./work/task3/task3.md) | [💻 task3.go](./work/task3/task3.go) |
+| 4 | [📄 task4.md](./work/task4/task4.md) | [💻 task4.go](./work/task4/task4.go) |
+| 5 | [📄 task5.md](./work/task5/task5.md) | [💻 task5.go](./work/task5/task5.go) |
+| 6 | [📄 task6.md](./work/task6/task6.md) | [💻 task6.go](./work/task6/task6.go) |
+| 7 | [📄 task7.md](./work/task7/task7.md) | [💻 task7.go](./work/task7/task7.go) |
+| 8 | [📄 task8.md](./work/task8/task8.md) | [💻 task8.go](./work/task8/task8.go) |
+| 9 | [📄 task9.md](./work/task9/task9.md) | [💻 task9.go](./work/task9/task9.go) |
+| 10 | [📄 task10.md](./work/task10/task10.md) | [💻 task10.go](./work/task10/task10.go) |
+| 11 | [📄 task11.md](./work/task11/task11.md) | [💻 task11.go](./work/task11/task11.go) |
+| 12 | [📄 task12.md](./work/task12/task12.md) | [💻 task12.go](./work/task12/task12.go) |
+
 ### 📌 Мелкие задачи
 
 Решено **более 100** небольших задач на Go: циклы, условия, функции, строки, массивы, слайсы, мапы, структуры, методы, конструкторы, интерфейсы, ошибки, тестирование и другое.  
