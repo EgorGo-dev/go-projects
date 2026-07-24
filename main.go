@@ -1,16 +1,24 @@
 package main
 
 import (
-	"fmt"
+  "fmt"
+  "time"
 )
 
 func main() {
-	// ! ПРОВЕРКА КАК РАБОТАЕТ :
-	fmt.Println("Ok let`s Go")
-	arr := []int{1, 2, 3, 4, 5}
+  ch := make(chan struct{})
+  // горутина, которая асинхронно производит вычисления
+  go func() {
+    fmt.Println("начинаем вычисления...")
+    // имитируем длинные вычисления
+    time.Sleep(time.Second)
+    fmt.Println("заканчиваем вычисления ...")
+    // закрываем канал, чтобы получить сообщения
+    close(ch)
+  }()
 
-	i := 2
-	j := 3
-	fmt.Println(arr[i:])
-	fmt.Println(arr[:j])
+  // программа блокируется
+  <-ch
+  fmt.Println("завершаем программу")
 }
+    

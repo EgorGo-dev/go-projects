@@ -39,6 +39,10 @@
 - [Задача 6](./work/task6/task6.md) — решение: [task6.go](./work/task6/task6.go)
 - [Задача 7](./work/task7/task7.md) — решение: [task7.go](./work/task7/task7.go)
 - [Задача 8](./work/task8/task8.md) — решение: [task8.go](./work/task8/task8.go)
+- [Задача 9](./work/task9/task9.md) — решение: [task9.go](./work/task9/task9.go)
+- [Задача 10](./work/task10/task10.md) — решение: [task10.go](./work/task10/task10.go)
+- [Задача 11](./work/task11/task11.md) — решение: [task11.go](./work/task11/task11.go)
+- [Задача 12](./work/task12/task12.md) — решение: [task12.go](./work/task12/task12.go)
 
 ### 📌 Мелкие задачи
 
