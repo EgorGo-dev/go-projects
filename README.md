@@ -45,6 +45,8 @@
 | 10 | [📄 task10.md](./work/task10/task10.md) | [💻 task10.go](./work/task10/task10.go) |
 | 11 | [📄 task11.md](./work/task11/task11.md) | [💻 task11.go](./work/task11/task11.go) |
 | 12 | [📄 task12.md](./work/task12/task12.md) | [💻 task12.go](./work/task12/task12.go) |
+| 13 | [📄 task13.md](./work/task13/task13.md) | [💻 task13.go](./work/task13/task13.go) |
+| 14 | [📄 task14.md](./work/task14/task14.md) | [💻 task14.go](./work/task14/task14.go) |
 
 ### 📌 Мелкие задачи
 
