@@ -2,14 +2,12 @@ package main
 
 import "fmt"
 
-// Animal — интерфейс, который описывает поведение животного
 type Animal interface {
 	MakeSound() string
 	GetName() string
 	GetInfo() string
 }
 
-// animal — приватная структура, поля скрыты от внешнего доступа
 type animal struct {
 	name    string
 	species string
@@ -17,7 +15,6 @@ type animal struct {
 	sound   string
 }
 
-// NewAnimal — конструктор, возвращает интерфейс Animal
 func NewAnimal(name, species string, age int, sound string) Animal {
 	return &animal{
 		name:    name,
