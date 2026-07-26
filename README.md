@@ -60,13 +60,9 @@
 
 ## 🏆 Сертификаты
 
-<div align="center">
-  <img src="./certificate/certificate.jpg" alt="Сертификат" width="250">
-</div>
-
-<div align="center">
-  <img src="./certificate/certificate 2.jpg" alt="Сертификат" width="250">
-</div>
+| 🏆 Go-1 | 🏆 Go-2 | 🏆 Go-3 (планируется) |
+|---------|---------|------------------------|
+| <img src="./certificate/certificate.jpg" width="200" alt="Сертификат Go-1"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс <br> № 2623885779 от 10.07.2026 | <img src="./certificate/certificate_2.jpg" width="200" alt="Сертификат Go-2"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс <br> № 2623885779 от 10.07.2026 | *Скоро будет здесь* |
 
 *Сертификат об успешном завершении курса «Go-1 шаг за шагом», «Go-2 шаг за шагом» в Яндекс Лицее.*
 
