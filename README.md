@@ -32,19 +32,17 @@
 
 ### ✅ Контрольные работы и сложные задачи
 
-## Контрольные работы и сложные задачи
-
 | Задачи 1–15 | Задачи 16–30 |
 |-------------|--------------|
-|   1. 📄 [task1.md](./work/task1/task1.md) 💻 [task1.go](./work/task1/task1.go) | 16. 📄 [task16.md](./work/task16/task16.md) 💻 [task16.go](./work/task16/task16.go) |
-|   2. 📄 [task2.md](./work/task2/task2.md) 💻 [task2.go](./work/task2/task2.go) | 17. — |
-|   3. 📄 [task3.md](./work/task3/task3.md) 💻 [task3.go](./work/task3/task3.go) | 18. — |
-|   4. 📄 [task4.md](./work/task4/task4.md) 💻 [task4.go](./work/task4/task4.go) | 19. — |
-|   5. 📄 [task5.md](./work/task5/task5.md) 💻 [task5.go](./work/task5/task5.go) | 20. — |
-|   6. 📄 [task6.md](./work/task6/task6.md) 💻 [task6.go](./work/task6/task6.go) | 21. — |
-|   7. 📄 [task7.md](./work/task7/task7.md) 💻 [task7.go](./work/task7/task7.go) | 22. — |
-|   8. 📄 [task8.md](./work/task8/task8.md) 💻 [task8.go](./work/task8/task8.go) | 23. — |
-|   9. 📄 [task9.md](./work/task9/task9.md) 💻 [task9.go](./work/task9/task9.go) | 24. — |
+|  1. 📄 [task1.md](./work/task1/task1.md) 💻 [task1.go](./work/task1/task1.go) | 16. 📄 [task16.md](./work/task16/task16.md) 💻 [task16.go](./work/task16/task16.go) |
+|  2. 📄 [task2.md](./work/task2/task2.md) 💻 [task2.go](./work/task2/task2.go) | 17. 📄 [task17.md](./work/task17/task17.md) 💻 [task17.go](./work/task17/task17.go) |
+|  3. 📄 [task3.md](./work/task3/task3.md) 💻 [task3.go](./work/task3/task3.go) | 18. 📄 [task18.md](./work/task18/task18.md) 💻 [task18.go](./work/task18/task18.go) |
+|  4. 📄 [task4.md](./work/task4/task4.md) 💻 [task4.go](./work/task4/task4.go) | 19. — |
+|  5. 📄 [task5.md](./work/task5/task5.md) 💻 [task5.go](./work/task5/task5.go) | 20. — |
+|  6. 📄 [task6.md](./work/task6/task6.md) 💻 [task6.go](./work/task6/task6.go) | 21. — |
+|  7. 📄 [task7.md](./work/task7/task7.md) 💻 [task7.go](./work/task7/task7.go) | 22. — |
+|  8. 📄 [task8.md](./work/task8/task8.md) 💻 [task8.go](./work/task8/task8.go) | 23. — |
+|  9. 📄 [task9.md](./work/task9/task9.md) 💻 [task9.go](./work/task9/task9.go) | 24. — |
 | 10. 📄 [task10.md](./work/task10/task10.md) 💻 [task10.go](./work/task10/task10.go) | 25. — |
 | 11. 📄 [task11.md](./work/task11/task11.md) 💻 [task11.go](./work/task11/task11.go) | 26. — |
 | 12. 📄 [task12.md](./work/task12/task12.md) 💻 [task12.go](./work/task12/task12.go) | 27. — |
