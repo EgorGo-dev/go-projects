@@ -25,7 +25,7 @@
 
 ## 🛠 Стек
 
-**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `encoding/json` · `reflect` · `bytes` · `sync` · `context` · `net/http` · `testing` · `math`
+**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `reflect` · `bytes` · `sync` · `context` · `net/http` · `testing` · `math`
 
 ---
 
@@ -40,8 +40,8 @@
 |  3. 📄 [task3.md](./work/task3/task3.md) 💻 [task3.go](./work/task3/task3.go) | 18. 📄 [task18.md](./work/task18/task18.md) 💻 [task18.go](./work/task18/task18.go) |
 |  4. 📄 [task4.md](./work/task4/task4.md) 💻 [task4.go](./work/task4/task4.go) | 19. 📄 [task19.md](./work/task19/task19.md) 💻 [task19.go](./work/task19/task19.go) |
 |  5. 📄 [task5.md](./work/task5/task5.md) 💻 [task5.go](./work/task5/task5.go) | 20. 📄 [task20.md](./work/task20/task20.md) 💻 [task20.go](./work/task20/task20.go) |
-|  6. 📄 [task6.md](./work/task6/task6.md) 💻 [task6.go](./work/task6/task6.go) | 21. — |
-|  7. 📄 [task7.md](./work/task7/task7.md) 💻 [task7.go](./work/task7/task7.go) | 22. — |
+|  6. 📄 [task6.md](./work/task6/task6.md) 💻 [task6.go](./work/task6/task6.go) | 21. 📄 [task21.md](./work/task21/task21.md) 💻 [task21.go](./work/task21/task21.go) |
+|  7. 📄 [task7.md](./work/task7/task7.md) 💻 [task7.go](./work/task7/task7.go) | 22. 📄 [task22.md](./work/task22/task22.md) 💻 [task22.go](./work/task22/task22.go) |
 |  8. 📄 [task8.md](./work/task8/task8.md) 💻 [task8.go](./work/task8/task8.go) | 23. — |
 |  9. 📄 [task9.md](./work/task9/task9.md) 💻 [task9.go](./work/task9/task9.go) | 24. — |
 | 10. 📄 [task10.md](./work/task10/task10.md) 💻 [task10.go](./work/task10/task10.go) | 25. — |

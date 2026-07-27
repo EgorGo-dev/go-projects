@@ -5,7 +5,7 @@ import (
 )
 
 func new() {
-	fmt.Println("Ok let`s Go")
+	fmt.Println("Ok let`s Go/n")
 
 	arr := []int{1, 2, 3, 4, 5}
 
