@@ -25,7 +25,7 @@
 
 ## 🛠 Стек
 
-**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `encoding/json` · `reflect` · `bytes` · `sync` · `context` · `net/http` · `testing` · `math`
+**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `encoding/json` · `reflect` · `bytes` · `sync` · `context` · `net/http` · `testing` · `math`
 
 ---
 
@@ -44,10 +44,10 @@
 |  7. 📄 [task7.md](./work/task7/task7.md) 💻 [task7.go](./work/task7/task7.go) | 22. 📄 [task22.md](./work/task22/task22.md) 💻 [task22.go](./work/task22/task22.go) |
 |  8. 📄 [task8.md](./work/task8/task8.md) 💻 [task8.go](./work/task8/task8.go) | 23. 📄 [task23.md](./work/task23/task23.md) 💻 [task23.go](./work/task23/task23.go) |
 |  9. 📄 [task9.md](./work/task9/task9.md) 💻 [task9.go](./work/task9/task9.go) | 24. 📄 [task24.md](./work/task24/task24.md) 💻 [task24.go](./work/task24/task24.go) |
-| 10. 📄 [task10.md](./work/task10/task10.md) 💻 [task10.go](./work/task10/task10.go) | 25. — |
-| 11. 📄 [task11.md](./work/task11/task11.md) 💻 [task11.go](./work/task11/task11.go) | 26. — |
-| 12. 📄 [task12.md](./work/task12/task12.md) 💻 [task12.go](./work/task12/task12.go) | 27. — |
-| 13. 📄 [task13.md](./work/task13/task13.md) 💻 [task13.go](./work/task13/task13.go) | 28. — |
+| 10. 📄 [task10.md](./work/task10/task10.md) 💻 [task10.go](./work/task10/task10.go) | 25. 📄 [task25.md](./work/task25/task25.md) 💻 [task25.go](./work/task25/task25.go) |
+| 11. 📄 [task11.md](./work/task11/task11.md) 💻 [task11.go](./work/task11/task11.go) | 26. 📄 [task26.md](./work/task26/task26.md) 💻 [task26.go](./work/task26/task26.go) |
+| 12. 📄 [task12.md](./work/task12/task12.md) 💻 [task12.go](./work/task12/task12.go) | 27. 📄 [task27.md](./work/task27/task27.md) 💻 [task27.go](./work/task27/task27.go) |
+| 13. 📄 [task13.md](./work/task13/task13.md) 💻 [task13.go](./work/task13/task13.go) | 28. 📄 [task28.md](./work/task28/task28.md) 💻 [task28.go](./work/task28/task28.go) |
 | 14. 📄 [task14.md](./work/task14/task14.md) 💻 [task14.go](./work/task14/task14.go) | 29. — |
 | 15. 📄 [task15.md](./work/task15/task15.md) 💻 [task15.go](./work/task15/task15.go) | 30. — |
 
