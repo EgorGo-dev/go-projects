@@ -25,7 +25,7 @@
 
 ## 🛠 Стек
 
-**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `encoding/json` · `reflect` · `bytes` · `sync` · `context` · `net/http` · `testing` · `math`
+**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `encoding/json` · `reflect` · `bytes` · `sync`  `regexp` · `context` · `net/http` · `testing` · `math`
 
 ---
 
@@ -37,10 +37,10 @@
 |-------------|--------------|--------------|
 | 1. 📄 [task1.md](./work/task1/task1.md) 💻 [task1.go](./work/task1/task1.go) | 16. 📄 [task16.md](./work/task16/task16.md) 💻 [task16.go](./work/task16/task16.go) | 31. 📄 [task31.md](./work/task31/task31.md) 💻 [task31.go](./work/task31/task31.go) |
 | 2. 📄 [task2.md](./work/task2/task2.md) 💻 [task2.go](./work/task2/task2.go) | 17. 📄 [task17.md](./work/task17/task17.md) 💻 [task17.go](./work/task17/task17.go) | 32. 📄 [task32.md](./work/task32/task32.md) 💻 [task32.go](./work/task32/task32.go) |
-| 3. 📄 [task3.md](./work/task3/task3.md) 💻 [task3.go](./work/task3/task3.go) | 18. 📄 [task18.md](./work/task18/task18.md) 💻 [task18.go](./work/task18/task18.go) | 33. – |
-| 4. 📄 [task4.md](./work/task4/task4.md) 💻 [task4.go](./work/task4/task4.go) | 19. 📄 [task19.md](./work/task19/task19.md) 💻 [task19.go](./work/task19/task19.go) | 34. – |
-| 5. 📄 [task5.md](./work/task5/task5.md) 💻 [task5.go](./work/task5/task5.go) | 20. 📄 [task20.md](./work/task20/task20.md) 💻 [task20.go](./work/task20/task20.go) | 35. – |
-| 6. 📄 [task6.md](./work/task6/task6.md) 💻 [task6.go](./work/task6/task6.go) | 21. 📄 [task21.md](./work/task21/task21.md) 💻 [task21.go](./work/task21/task21.go) | 36. – |
+| 3. 📄 [task3.md](./work/task3/task3.md) 💻 [task3.go](./work/task3/task3.go) | 18. 📄 [task18.md](./work/task18/task18.md) 💻 [task18.go](./work/task18/task18.go) | 33. 📄 [task33.md](./work/task33/task33.md) 💻 [task33.go](./work/task33/task33.go) |
+| 4. 📄 [task4.md](./work/task4/task4.md) 💻 [task4.go](./work/task4/task4.go) | 19. 📄 [task19.md](./work/task19/task19.md) 💻 [task19.go](./work/task19/task19.go) | 34. 📄 [task34.md](./work/task34/task34.md) 💻 [task34.go](./work/task34/task34.go) |
+| 5. 📄 [task5.md](./work/task5/task5.md) 💻 [task5.go](./work/task5/task5.go) | 20. 📄 [task20.md](./work/task20/task20.md) 💻 [task20.go](./work/task20/task20.go) | 35. 📄 [task35.md](./work/task35/task35.md) 💻 [task35.go](./work/task35/task35.go) |
+| 6. 📄 [task6.md](./work/task6/task6.md) 💻 [task6.go](./work/task6/task6.go) | 21. 📄 [task21.md](./work/task21/task21.md) 💻 [task21.go](./work/task21/task21.go) | 36. 📄 [task36.md](./work/task36/task36.md) 💻 [task36.go](./work/task36/task36.go) |
 | 7. 📄 [task7.md](./work/task7/task7.md) 💻 [task7.go](./work/task7/task7.go) | 22. 📄 [task22.md](./work/task22/task22.md) 💻 [task22.go](./work/task22/task22.go) | 37. – |
 | 8. 📄 [task8.md](./work/task8/task8.md) 💻 [task8.go](./work/task8/task8.go) | 23. 📄 [task23.md](./work/task23/task23.md) 💻 [task23.go](./work/task23/task23.go) | 38. – |
 | 9. 📄 [task9.md](./work/task9/task9.md) 💻 [task9.go](./work/task9/task9.go) | 24. 📄 [task24.md](./work/task24/task24.md) 💻 [task24.go](./work/task24/task24.go) | 39. – |
@@ -53,7 +53,7 @@
 
 ### 📌 Мелкие задачи
 
-Решено **более 100** небольших задач на Go: циклы, условия, функции, строки, массивы, слайсы, мапы, структуры, методы, конструкторы, интерфейсы, ошибки, тестирование и другое.  
+Решено **более 150** небольших задач на Go: циклы, условия, функции, строки, массивы, слайсы, мапы, структуры, методы, конструкторы, интерфейсы, ошибки, тестирование и другое.  
 *(Они не выложены отдельно, чтобы не загромождать репозиторий.)*
 
 ---
@@ -68,13 +68,6 @@
 *Сертификат об успешном завершении курса «Go-1 шаг за шагом», «Go-2 шаг за шагом» в Яндекс Лицее.*
 
 ---
-првиет как тебя зовут сударь?@!
-првиет как тебя зовут сударь?@!
-првиет как тебя зовут сударь?@!
-првиет как тебя зовут сударь?@!
-првиет как тебя зовут сударь?@!
-првиет как тебя зовут сударь?@!
-првиет как тебя зовут сударь?@!
 
 ## 📬 Контакты
 
