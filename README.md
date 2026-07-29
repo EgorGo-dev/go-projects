@@ -17,7 +17,7 @@
 - Учусь в **Яндекс Лицее** (курс «Go-3: шаг за шагом»).
 - 🥇 **Занял 1 место** на курсе «Go-1: шаг за шагом» в Яндекс Лицее.
 - 🥇 **Занял 1 место** на курсе «Go-2: шаг за шагом» в Яндекс Лицее.
-- Уже решил **более 100 задач** на Go.
+- Уже решил **более 200 задач** на Go.
 - 🚀 Интересуюсь бэкенд-разработкой, высоконагруженными системами и облачными технологиями.
 - Всегда открыт к обсуждению кода и новым идеям.
 
@@ -25,7 +25,7 @@
 
 ## 🛠 Стек
 
-**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `encoding/json` · `reflect` · `bytes` · `sync`  `regexp` · `context` · `net/http` · `testing` · `math`
+**Go** · Git · GitHub · VS Code · `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `encoding/json` · `reflect` · `bytes` · `sync`  `regexp` · `context` · `net/url` · `net/http` · `net/http/httptest` · `testing` · `math`
 
 ---
 
@@ -50,6 +50,20 @@
 | 13. 📄 [task13.md](./work/task13/task13.md) 💻 [task13.go](./work/task13/task13.go) | 28. 📄 [task28.md](./work/task28/task28.md) 💻 [task28.go](./work/task28/task28.go) | 43. – |
 | 14. 📄 [task14.md](./work/task14/task14.md) 💻 [task14.go](./work/task14/task14.go) | 29. 📄 [task29.md](./work/task29/task29.md) 💻 [task29.go](./work/task29/task29.go) | 44. – |
 | 15. 📄 [task15.md](./work/task15/task15.md) 💻 [task15.go](./work/task15/task15.go) | 30. 📄 [task30.md](./work/task30/task30.md) 💻 [task30.go](./work/task30/task30.go) | 45. – |
+
+## 💀🔥 Сверхсложные задачи — БОСС-УРОВЕНЬ 💀🔥
+
+*Эти задачи требуют нестандартного мышления, глубокого понимания Go и железных нервов. Подходите с осторожностью!*
+
+| ⚡ Задача | 👾 Условие | 💻 Решение | 🧠 Сложность |
+|-----------|-----------|------------|--------------|
+| **1.** | 👾 [hardTask.md](./work/HARDtask1/hardTask.md) 💻 [hardTask.go](./work/HARDtask1/hardTask.go) | 🧠🧠🧠 |
+| **2.** | — | — | — |
+| **3.** | — | — | — |
+| **4.** | — | — | — |
+| **5.** | — | — | — |
+
+> ⚠️ **Внимание!** Здесь будут задачи, которые заставят ваш мозг дымиться. Если вы готовы — добро пожаловать в адский клуб Go-разработчиков! 🔥
 
 ### 📌 Мелкие задачи
 

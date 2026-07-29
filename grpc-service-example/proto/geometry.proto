@@ -1,0 +1,26 @@
+
+syntax = "proto3"; // версия proto файлов
+package geometry; // название пакета
+option go_package = "./proto";
+
+
+// Сообщение, описывающее параметры прямоугольника
+message RectRequest {
+    float height = 1; // числа здесь - порядок полей в сообщении
+    float width = 2;
+}
+// Сообщение для описания результата вычисления площади
+message AreaResponse {
+    float result = 1;
+}
+// Сообщение для описания результата вычисления периметра
+message PermiterResponse {
+    float result = 1;
+}
+// Определение сервиса с двумя методами
+service GeometryService {
+  // методы, которые можно будет реализовать и использовать 
+    rpc Area (RectRequest) returns (AreaResponse); 
+    rpc Perimeter (RectRequest) returns (PermiterResponse);
+}
+    
