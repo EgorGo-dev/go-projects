@@ -57,7 +57,7 @@
 
 | ⚡ Задача | 👾 Условие | 💻 Решение | 🧠 Сложность |
 |-----------|-----------|------------|--------------|
-| **1.** | 👾 [hardTask.md](./work/HARDtask1/hardTask.md) 💻 [hardTask.go](./work/HARDtask1/hardTask.go) | 🧠🧠🧠 |
+| **1.** | 👾 [hardTask.md](./work/HARDtask1/hardTask.md) | 💻 [hardTask.go](./work/HARDtask1/hardTask.go) | 🧠🧠🧠 |
 | **2.** | — | — | — |
 | **3.** | — | — | — |
 | **4.** | — | — | — |
