@@ -78,7 +78,7 @@
 | 🏆 Go-1 | 🏆 Go-2 |
 |---------|---------|
 | <img src="./certificate/certificate.jpg" width="350" alt="Сертификат Go-1"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 2.jpg" width="350" alt="Сертификат Go-2"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс |
-| <div align="center">🏆 Go-3</div> | <div align="center">🏆 SQL (планируется)</div> |
+| <div align="center"><b>🏆 Go-3</b></div> | <div align="center"><b>🏆 SQL (планируется)</b></div> |
 | <img src="./certificate/certificate 3.jpg" width="350" alt="Сертификат Go-3"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <div align="center">*Скоро будет здесь*</div> |
 
 *Сертификаты об успешном завершении курса «Go-1 шаг за шагом», «Go-2 шаг за шагом», «Go-3 шаг за шагом» в Яндекс Лицее.*
