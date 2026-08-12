@@ -63,12 +63,12 @@
 | 22. 📄 [task22.md](./work/task22/task22.md) 💻 [task22.go](./work/task22/task22.go) | 52. 📄 [task52.md](./work/task52/task52.md) 🗄️ [task52.sql](./work/task52/task52.sql) | 82. 📄 — 🗄️ — |
 | 23. 📄 [task23.md](./work/task23/task23.md) 💻 [task23.go](./work/task23/task23.go) | 53. 📄 [task53.md](./work/task53/task53.md) 🗄️ [task53.sql](./work/task53/task53.sql) | 83. 📄 — 🗄️ — |
 | 24. 📄 [task24.md](./work/task24/task24.md) 💻 [task24.go](./work/task24/task24.go) | 54. 📄 [task54.md](./work/task54/task54.md) 🗄️ [task54.sql](./work/task54/task54.sql) | 84. 📄 — 🗄️ — |
-| 25. 📄 [task25.md](./work/task25/task25.md) 💻 [task25.go](./work/task25/task25.go) | 55. 📄 — 🗄️ — | 85. 📄 — 🗄️ — |
-| 26. 📄 [task26.md](./work/task26/task26.md) 💻 [task26.go](./work/task26/task26.go) | 56. 📄 — 🗄️ — | 86. 📄 — 🗄️ — |
-| 27. 📄 [task27.md](./work/task27/task27.md) 💻 [task27.go](./work/task27/task27.go) | 57. 📄 — 🗄️ — | 87. 📄 — 🗄️ — |
-| 28. 📄 [task28.md](./work/task28/task28.md) 💻 [task28.go](./work/task28/task28.go) | 58. 📄 — 🗄️ — | 88. 📄 — 🗄️ — |
-| 29. 📄 [task29.md](./work/task29/task29.md) 💻 [task29.go](./work/task29/task29.go) | 59. 📄 — 🗄️ — | 89. 📄 — 🗄️ — |
-| 30. 📄 [task30.md](./work/task30/task30.md) 💻 [task30.go](./work/task30/task30.go) | 60. 📄 — 🗄️ — | 90. 📄 — 🗄️ — |
+| 25. 📄 [task25.md](./work/task25/task25.md) 💻 [task25.go](./work/task25/task25.go) | 55. 📄 [task55.md](./work/task55/task55.md) 🗄️ [task55.sql](./work/task55/task55.sql) | 85. 📄 — 🗄️ — |
+| 26. 📄 [task26.md](./work/task26/task26.md) 💻 [task26.go](./work/task26/task26.go) | 56. 📄 [task56.md](./work/task56/task56.md) 🗄️ [task56.sql](./work/task56/task56.sql) | 86. 📄 — 🗄️ — |
+| 27. 📄 [task27.md](./work/task27/task27.md) 💻 [task27.go](./work/task27/task27.go) | 57. 📄 [task57.md](./work/task57/task57.md) 🗄️ [task57.sql](./work/task57/task57.sql) | 87. 📄 — 🗄️ — |
+| 28. 📄 [task28.md](./work/task28/task28.md) 💻 [task28.go](./work/task28/task28.go) | 58. 📄 [task58.md](./work/task58/task58.md) 🗄️ [task58.sql](./work/task58/task58.sql) | 88. 📄 — 🗄️ — |
+| 29. 📄 [task29.md](./work/task29/task29.md) 💻 [task29.go](./work/task29/task29.go) | 59. 📄 [task59.md](./work/task59/task59.md) 🗄️ [task59.sql](./work/task59/task59.sql) | 89. 📄 — 🗄️ — |
+| 30. 📄 [task30.md](./work/task30/task30.md) 💻 [task30.go](./work/task30/task30.go) | 60. 📄 [task60.md](./work/task60/task60.md) 🗄️ [task60.sql](./work/task60/task60.sql) | 90. 📄 — 🗄️ — |
 
 
 ## 💀🔥 Сверхсложные задачи — БОСС-УРОВЕНЬ 💀🔥
