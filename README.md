@@ -45,7 +45,7 @@
 | 4.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task4/task4.md) 💻 [Go-решение](./work/task4/task4.go) | 34.&nbsp;📄 [условие](./work/task34/task34.md) 💻&nbsp;[Go-решение](./work/task34/task34.go) | 64.&nbsp;📄 [условие](./work/task64/task64.md) 🗄️ [SQL-решение](./work/task64/task64.sql) |
 | 5.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task5/task5.md) 💻 [Go-решение](./work/task5/task5.go) | 35.&nbsp;📄 [условие](./work/task35/task35.md) 💻&nbsp;[Go-решение](./work/task35/task35.go) | 65.&nbsp;📄 [условие](./work/task65/task65.md) 🗄️ [SQL-решение](./work/task65/task65.sql) |
 | 6.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task6/task6.md) 💻 [Go-решение](./work/task6/task6.go) | 36.&nbsp;📄 [условие](./work/task36/task36.md) 💻&nbsp;[Go-решение](./work/task36/task36.go) | 66.&nbsp;📄 [условие](./work/task66/task66.md) 🗄️ [SQL-решение](./work/task66/task66.sql) |
-| 7.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task7/task7.md) 💻 [Go-решение](./work/task7/task7.go) | 37.&nbsp;📄 [условие](./work/task37/task37.md) 🗄️ [SQL-решение](./work/task37/task37.sql) | 67.&nbsp;— |
+| 7.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task7/task7.md) 💻 [Go-решение](./work/task7/task7.go) | 37.&nbsp;📄 [условие](./work/task37/task37.md) 🗄️ [SQL-решение](./work/task37/task37.sql) | 67.&nbsp;📄 [условие](./work/task67/task67.md) 🗄️ [SQL-решение](./work/task67/task67.sql) |
 | 8.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task8/task8.md) 💻 [Go-решение](./work/task8/task8.go) | 38.&nbsp;📄 [условие](./work/task38/task38.md) 🗄️ [SQL-решение](./work/task38/task38.sql) | 68.&nbsp;— |
 | 9.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task9/task9.md) 💻 [Go-решение](./work/task9/task9.go) | 39.&nbsp;📄 [условие](./work/task39/task39.md) 🗄️ [SQL-решение](./work/task39/task39.sql) | 69.&nbsp;— |
 | 10.&nbsp;📄 [условие](./work/task10/task10.md) 💻 [Go-решение](./work/task10/task10.go) | 40.&nbsp;📄 [условие](./work/task40/task40.md) 🗄️ [SQL-решение](./work/task40/task40.sql) | 70.&nbsp;— |
@@ -76,13 +76,13 @@
 > ⚠️ **Внимание!** Эти задачи требуют нестандартного мышления, глубокого понимания **Go** 💻 или **SQL (SQLite)** 🗄️ и железных нервов.  
 > Подходите с осторожностью – здесь не место для слабаков! ⚔️
 
-| ⚡ Задача | 👾 Условие | 💻 Решение | 📌 Язык | 🧠 Сложность |
-|-----------|-----------|------------|---------|--------------|
-| **1.** | 👾 [hardTask.md](./work/HARDtask1/hardTask.md) | 💻 [hardTask.go](./work/HARDtask1/hardTask.go) | **Go** | 🧠🧠🧠 |
-| **2.** | — | — | — | — |
-| **3.** | — | — | — | — |
-| **4.** | — | — | — | — |
-| **5.** | — | — | — | — |
+| ⚡ Задача | 📄 Условие | 💻/🗄️ Решение | 🧠 Сложность |
+|-----------|------------|----------------|--------------|
+| **1.** | 📄 [условие](./work/HARDtask1/hardTask.md) | 💻 [Go-решение](./work/HARDtask1/hardTask.go) | 🧠🧠🧠 |
+| **2.** | 📄 [условие](./work/HARDtask2/hardTask.md) | 🗄️ [SQL-решение](./work/HARDtask2/hardTask.sql) | 🧠 |
+| **3.** | — | — | — |
+| **4.** | — | — | — |
+| **5.** | — | — | — |
 
 ### 📌 Мелкие задачи
 
