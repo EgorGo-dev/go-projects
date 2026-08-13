@@ -39,36 +39,36 @@
 
 | Задачи 1–30 | Задачи 31–60 | Задачи 61–90 |
 |-------------|--------------|--------------|
-| 1.&nbsp;&nbsp;📄 [условие](./work/task1/task1.md) &nbsp;💻 [Go-решение](./work/task1/task1.go) | 31.&nbsp;📄 [условие](./work/task31/task31.md) &nbsp;💻 [Go-решение](./work/task31/task31.go) | 61.&nbsp;📄 [условие](./work/task61/task61.md) &nbsp;🗄️ [SQL-решение](./work/task61/task61.sql) |
-| 2.&nbsp;&nbsp;📄 [условие](./work/task2/task2.md) &nbsp;💻 [Go-решение](./work/task2/task2.go) | 32.&nbsp;📄 [условие](./work/task32/task32.md) &nbsp;💻 [Go-решение](./work/task32/task32.go) | 62.&nbsp;📄 [условие](./work/task62/task62.md) &nbsp;🗄️ [SQL-решение](./work/task62/task62.sql) |
-| 3.&nbsp;&nbsp;📄 [условие](./work/task3/task3.md) &nbsp;💻 [Go-решение](./work/task3/task3.go) | 33.&nbsp;📄 [условие](./work/task33/task33.md) &nbsp;💻 [Go-решение](./work/task33/task33.go) | 63.&nbsp;📄 [условие](./work/task63/task63.md) &nbsp;🗄️ [SQL-решение](./work/task63/task63.sql) |
-| 4.&nbsp;&nbsp;📄 [условие](./work/task4/task4.md) &nbsp;💻 [Go-решение](./work/task4/task4.go) | 34.&nbsp;📄 [условие](./work/task34/task34.md) &nbsp;💻 [Go-решение](./work/task34/task34.go) | 64.&nbsp;📄 [условие](./work/task64/task64.md) &nbsp;🗄️ [SQL-решение](./work/task64/task64.sql) |
-| 5.&nbsp;&nbsp;📄 [условие](./work/task5/task5.md) &nbsp;💻 [Go-решение](./work/task5/task5.go) | 35.&nbsp;📄 [условие](./work/task35/task35.md) &nbsp;💻 [Go-решение](./work/task35/task35.go) | 65.&nbsp;📄 [условие](./work/task65/task65.md) &nbsp;🗄️ [SQL-решение](./work/task65/task65.sql) |
-| 6.&nbsp;&nbsp;📄 [условие](./work/task6/task6.md) &nbsp;💻 [Go-решение](./work/task6/task6.go) | 36.&nbsp;📄 [условие](./work/task36/task36.md) &nbsp;💻 [Go-решение](./work/task36/task36.go) | 66.&nbsp;📄 [условие](./work/task66/task66.md) &nbsp;🗄️ [SQL-решение](./work/task66/task66.sql) |
-| 7.&nbsp;&nbsp;📄 [условие](./work/task7/task7.md) &nbsp;💻 [Go-решение](./work/task7/task7.go) | 37.&nbsp;📄 [условие](./work/task37/task37.md) &nbsp;🗄️ [SQL-решение](./work/task37/task37.sql) | 67.&nbsp;— |
-| 8.&nbsp;&nbsp;📄 [условие](./work/task8/task8.md) &nbsp;💻 [Go-решение](./work/task8/task8.go) | 38.&nbsp;📄 [условие](./work/task38/task38.md) &nbsp;🗄️ [SQL-решение](./work/task38/task38.sql) | 68.&nbsp;— |
-| 9.&nbsp;&nbsp;📄 [условие](./work/task9/task9.md) &nbsp;💻 [Go-решение](./work/task9/task9.go) | 39.&nbsp;📄 [условие](./work/task39/task39.md) &nbsp;🗄️ [SQL-решение](./work/task39/task39.sql) | 69.&nbsp;— |
-| 10.&nbsp;📄 [условие](./work/task10/task10.md) &nbsp;💻 [Go-решение](./work/task10/task10.go) | 40.&nbsp;📄 [условие](./work/task40/task40.md) &nbsp;🗄️ [SQL-решение](./work/task40/task40.sql) | 70.&nbsp;— |
-| 11.&nbsp;📄 [условие](./work/task11/task11.md) &nbsp;💻 [Go-решение](./work/task11/task11.go) | 41.&nbsp;📄 [условие](./work/task41/task41.md) &nbsp;🗄️ [SQL-решение](./work/task41/task41.sql) | 71.&nbsp;— |
-| 12.&nbsp;📄 [условие](./work/task12/task12.md) &nbsp;💻 [Go-решение](./work/task12/task12.go) | 42.&nbsp;📄 [условие](./work/task42/task42.md) &nbsp;🗄️ [SQL-решение](./work/task42/task42.sql) | 72.&nbsp;— |
-| 13.&nbsp;📄 [условие](./work/task13/task13.md) &nbsp;💻 [Go-решение](./work/task13/task13.go) | 43.&nbsp;📄 [условие](./work/task43/task43.md) &nbsp;🗄️ [SQL-решение](./work/task43/task43.sql) | 73.&nbsp;— |
-| 14.&nbsp;📄 [условие](./work/task14/task14.md) &nbsp;💻 [Go-решение](./work/task14/task14.go) | 44.&nbsp;📄 [условие](./work/task44/task44.md) &nbsp;🗄️ [SQL-решение](./work/task44/task44.sql) | 74.&nbsp;— |
-| 15.&nbsp;📄 [условие](./work/task15/task15.md) &nbsp;💻 [Go-решение](./work/task15/task15.go) | 45.&nbsp;📄 [условие](./work/task45/task45.md) &nbsp;🗄️ [SQL-решение](./work/task45/task45.sql) | 75.&nbsp;— |
-| 16.&nbsp;📄 [условие](./work/task16/task16.md) &nbsp;💻 [Go-решение](./work/task16/task16.go) | 46.&nbsp;📄 [условие](./work/task46/task46.md) &nbsp;🗄️ [SQL-решение](./work/task46/task46.sql) | 76.&nbsp;— |
-| 17.&nbsp;📄 [условие](./work/task17/task17.md) &nbsp;💻 [Go-решение](./work/task17/task17.go) | 47.&nbsp;📄 [условие](./work/task47/task47.md) &nbsp;🗄️ [SQL-решение](./work/task47/task47.sql) | 77.&nbsp;— |
-| 18.&nbsp;📄 [условие](./work/task18/task18.md) &nbsp;💻 [Go-решение](./work/task18/task18.go) | 48.&nbsp;📄 [условие](./work/task48/task48.md) &nbsp;🗄️ [SQL-решение](./work/task48/task48.sql) | 78.&nbsp;— |
-| 19.&nbsp;📄 [условие](./work/task19/task19.md) &nbsp;💻 [Go-решение](./work/task19/task19.go) | 49.&nbsp;📄 [условие](./work/task49/task49.md) &nbsp;🗄️ [SQL-решение](./work/task49/task49.sql) | 79.&nbsp;— |
-| 20.&nbsp;📄 [условие](./work/task20/task20.md) &nbsp;💻 [Go-решение](./work/task20/task20.go) | 50.&nbsp;📄 [условие](./work/task50/task50.md) &nbsp;🗄️ [SQL-решение](./work/task50/task50.sql) | 80.&nbsp;— |
-| 21.&nbsp;📄 [условие](./work/task21/task21.md) &nbsp;💻 [Go-решение](./work/task21/task21.go) | 51.&nbsp;📄 [условие](./work/task51/task51.md) &nbsp;🗄️ [SQL-решение](./work/task51/task51.sql) | 81.&nbsp;— |
-| 22.&nbsp;📄 [условие](./work/task22/task22.md) &nbsp;💻 [Go-решение](./work/task22/task22.go) | 52.&nbsp;📄 [условие](./work/task52/task52.md) &nbsp;🗄️ [SQL-решение](./work/task52/task52.sql) | 82.&nbsp;— |
-| 23.&nbsp;📄 [условие](./work/task23/task23.md) &nbsp;💻 [Go-решение](./work/task23/task23.go) | 53.&nbsp;📄 [условие](./work/task53/task53.md) &nbsp;🗄️ [SQL-решение](./work/task53/task53.sql) | 83.&nbsp;— |
-| 24.&nbsp;📄 [условие](./work/task24/task24.md) &nbsp;💻 [Go-решение](./work/task24/task24.go) | 54.&nbsp;📄 [условие](./work/task54/task54.md) &nbsp;🗄️ [SQL-решение](./work/task54/task54.sql) | 84.&nbsp;— |
-| 25.&nbsp;📄 [условие](./work/task25/task25.md) &nbsp;💻 [Go-решение](./work/task25/task25.go) | 55.&nbsp;📄 [условие](./work/task55/task55.md) &nbsp;🗄️ [SQL-решение](./work/task55/task55.sql) | 85.&nbsp;— |
-| 26.&nbsp;📄 [условие](./work/task26/task26.md) &nbsp;💻 [Go-решение](./work/task26/task26.go) | 56.&nbsp;📄 [условие](./work/task56/task56.md) &nbsp;🗄️ [SQL-решение](./work/task56/task56.sql) | 86.&nbsp;— |
-| 27.&nbsp;📄 [условие](./work/task27/task27.md) &nbsp;💻 [Go-решение](./work/task27/task27.go) | 57.&nbsp;📄 [условие](./work/task57/task57.md) &nbsp;🗄️ [SQL-решение](./work/task57/task57.sql) | 87.&nbsp;— |
-| 28.&nbsp;📄 [условие](./work/task28/task28.md) &nbsp;💻 [Go-решение](./work/task28/task28.go) | 58.&nbsp;📄 [условие](./work/task58/task58.md) &nbsp;🗄️ [SQL-решение](./work/task58/task58.sql) | 88.&nbsp;— |
-| 29.&nbsp;📄 [условие](./work/task29/task29.md) &nbsp;💻 [Go-решение](./work/task29/task29.go) | 59.&nbsp;📄 [условие](./work/task59/task59.md) &nbsp;🗄️ [SQL-решение](./work/task59/task59.sql) | 89.&nbsp;— |
-| 30.&nbsp;📄 [условие](./work/task30/task30.md) &nbsp;💻 [Go-решение](./work/task30/task30.go) | 60.&nbsp;📄 [условие](./work/task60/task60.md) &nbsp;🗄️ [SQL-решение](./work/task60/task60.sql) | 90.&nbsp;— |
+| 1.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task1/task1.md) 💻 [Go-решение](./work/task1/task1.go) | 31.&nbsp;📄 [условие](./work/task31/task31.md) 💻&nbsp;[Go-решение](./work/task31/task31.go) | 61.&nbsp;📄 [условие](./work/task61/task61.md) 🗄️ [SQL-решение](./work/task61/task61.sql) |
+| 2.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task2/task2.md) 💻 [Go-решение](./work/task2/task2.go) | 32.&nbsp;📄 [условие](./work/task32/task32.md) 💻&nbsp;[Go-решение](./work/task32/task32.go) | 62.&nbsp;📄 [условие](./work/task62/task62.md) 🗄️ [SQL-решение](./work/task62/task62.sql) |
+| 3.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task3/task3.md) 💻 [Go-решение](./work/task3/task3.go) | 33.&nbsp;📄 [условие](./work/task33/task33.md) 💻&nbsp;[Go-решение](./work/task33/task33.go) | 63.&nbsp;📄 [условие](./work/task63/task63.md) 🗄️ [SQL-решение](./work/task63/task63.sql) |
+| 4.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task4/task4.md) 💻 [Go-решение](./work/task4/task4.go) | 34.&nbsp;📄 [условие](./work/task34/task34.md) 💻&nbsp;[Go-решение](./work/task34/task34.go) | 64.&nbsp;📄 [условие](./work/task64/task64.md) 🗄️ [SQL-решение](./work/task64/task64.sql) |
+| 5.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task5/task5.md) 💻 [Go-решение](./work/task5/task5.go) | 35.&nbsp;📄 [условие](./work/task35/task35.md) 💻&nbsp;[Go-решение](./work/task35/task35.go) | 65.&nbsp;📄 [условие](./work/task65/task65.md) 🗄️ [SQL-решение](./work/task65/task65.sql) |
+| 6.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task6/task6.md) 💻 [Go-решение](./work/task6/task6.go) | 36.&nbsp;📄 [условие](./work/task36/task36.md) 💻&nbsp;[Go-решение](./work/task36/task36.go) | 66.&nbsp;📄 [условие](./work/task66/task66.md) 🗄️ [SQL-решение](./work/task66/task66.sql) |
+| 7.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task7/task7.md) 💻 [Go-решение](./work/task7/task7.go) | 37.&nbsp;📄 [условие](./work/task37/task37.md) 🗄️ [SQL-решение](./work/task37/task37.sql) | 67.&nbsp;— |
+| 8.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task8/task8.md) 💻 [Go-решение](./work/task8/task8.go) | 38.&nbsp;📄 [условие](./work/task38/task38.md) 🗄️ [SQL-решение](./work/task38/task38.sql) | 68.&nbsp;— |
+| 9.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task9/task9.md) 💻 [Go-решение](./work/task9/task9.go) | 39.&nbsp;📄 [условие](./work/task39/task39.md) 🗄️ [SQL-решение](./work/task39/task39.sql) | 69.&nbsp;— |
+| 10.&nbsp;📄 [условие](./work/task10/task10.md) 💻 [Go-решение](./work/task10/task10.go) | 40.&nbsp;📄 [условие](./work/task40/task40.md) 🗄️ [SQL-решение](./work/task40/task40.sql) | 70.&nbsp;— |
+| 11.&nbsp;📄 [условие](./work/task11/task11.md) 💻 [Go-решение](./work/task11/task11.go) | 41.&nbsp;📄 [условие](./work/task41/task41.md) 🗄️ [SQL-решение](./work/task41/task41.sql) | 71.&nbsp;— |
+| 12.&nbsp;📄 [условие](./work/task12/task12.md) 💻 [Go-решение](./work/task12/task12.go) | 42.&nbsp;📄 [условие](./work/task42/task42.md) 🗄️ [SQL-решение](./work/task42/task42.sql) | 72.&nbsp;— |
+| 13.&nbsp;📄 [условие](./work/task13/task13.md) 💻 [Go-решение](./work/task13/task13.go) | 43.&nbsp;📄 [условие](./work/task43/task43.md) 🗄️ [SQL-решение](./work/task43/task43.sql) | 73.&nbsp;— |
+| 14.&nbsp;📄 [условие](./work/task14/task14.md) 💻 [Go-решение](./work/task14/task14.go) | 44.&nbsp;📄 [условие](./work/task44/task44.md) 🗄️ [SQL-решение](./work/task44/task44.sql) | 74.&nbsp;— |
+| 15.&nbsp;📄 [условие](./work/task15/task15.md) 💻 [Go-решение](./work/task15/task15.go) | 45.&nbsp;📄 [условие](./work/task45/task45.md) 🗄️ [SQL-решение](./work/task45/task45.sql) | 75.&nbsp;— |
+| 16.&nbsp;📄 [условие](./work/task16/task16.md) 💻 [Go-решение](./work/task16/task16.go) | 46.&nbsp;📄 [условие](./work/task46/task46.md) 🗄️ [SQL-решение](./work/task46/task46.sql) | 76.&nbsp;— |
+| 17.&nbsp;📄 [условие](./work/task17/task17.md) 💻 [Go-решение](./work/task17/task17.go) | 47.&nbsp;📄 [условие](./work/task47/task47.md) 🗄️ [SQL-решение](./work/task47/task47.sql) | 77.&nbsp;— |
+| 18.&nbsp;📄 [условие](./work/task18/task18.md) 💻 [Go-решение](./work/task18/task18.go) | 48.&nbsp;📄 [условие](./work/task48/task48.md) 🗄️ [SQL-решение](./work/task48/task48.sql) | 78.&nbsp;— |
+| 19.&nbsp;📄 [условие](./work/task19/task19.md) 💻 [Go-решение](./work/task19/task19.go) | 49.&nbsp;📄 [условие](./work/task49/task49.md) 🗄️ [SQL-решение](./work/task49/task49.sql) | 79.&nbsp;— |
+| 20.&nbsp;📄 [условие](./work/task20/task20.md) 💻 [Go-решение](./work/task20/task20.go) | 50.&nbsp;📄 [условие](./work/task50/task50.md) 🗄️ [SQL-решение](./work/task50/task50.sql) | 80.&nbsp;— |
+| 21.&nbsp;📄 [условие](./work/task21/task21.md) 💻 [Go-решение](./work/task21/task21.go) | 51.&nbsp;📄 [условие](./work/task51/task51.md) 🗄️ [SQL-решение](./work/task51/task51.sql) | 81.&nbsp;— |
+| 22.&nbsp;📄 [условие](./work/task22/task22.md) 💻 [Go-решение](./work/task22/task22.go) | 52.&nbsp;📄 [условие](./work/task52/task52.md) 🗄️ [SQL-решение](./work/task52/task52.sql) | 82.&nbsp;— |
+| 23.&nbsp;📄 [условие](./work/task23/task23.md) 💻 [Go-решение](./work/task23/task23.go) | 53.&nbsp;📄 [условие](./work/task53/task53.md) 🗄️ [SQL-решение](./work/task53/task53.sql) | 83.&nbsp;— |
+| 24.&nbsp;📄 [условие](./work/task24/task24.md) 💻 [Go-решение](./work/task24/task24.go) | 54.&nbsp;📄 [условие](./work/task54/task54.md) 🗄️ [SQL-решение](./work/task54/task54.sql) | 84.&nbsp;— |
+| 25.&nbsp;📄 [условие](./work/task25/task25.md) 💻 [Go-решение](./work/task25/task25.go) | 55.&nbsp;📄 [условие](./work/task55/task55.md) 🗄️ [SQL-решение](./work/task55/task55.sql) | 85.&nbsp;— |
+| 26.&nbsp;📄 [условие](./work/task26/task26.md) 💻 [Go-решение](./work/task26/task26.go) | 56.&nbsp;📄 [условие](./work/task56/task56.md) 🗄️ [SQL-решение](./work/task56/task56.sql) | 86.&nbsp;— |
+| 27.&nbsp;📄 [условие](./work/task27/task27.md) 💻 [Go-решение](./work/task27/task27.go) | 57.&nbsp;📄 [условие](./work/task57/task57.md) 🗄️ [SQL-решение](./work/task57/task57.sql) | 87.&nbsp;— |
+| 28.&nbsp;📄 [условие](./work/task28/task28.md) 💻 [Go-решение](./work/task28/task28.go) | 58.&nbsp;📄 [условие](./work/task58/task58.md) 🗄️ [SQL-решение](./work/task58/task58.sql) | 88.&nbsp;— |
+| 29.&nbsp;📄 [условие](./work/task29/task29.md) 💻 [Go-решение](./work/task29/task29.go) | 59.&nbsp;📄 [условие](./work/task59/task59.md) 🗄️ [SQL-решение](./work/task59/task59.sql) | 89.&nbsp;— |
+| 30.&nbsp;📄 [условие](./work/task30/task30.md) 💻 [Go-решение](./work/task30/task30.go) | 60.&nbsp;📄 [условие](./work/task60/task60.md) 🗄️ [SQL-решение](./work/task60/task60.sql) | 90.&nbsp;— |
 
 
 ## 💀🔥 Сверхсложные задачи — БОСС-УРОВЕНЬ 💀🔥
