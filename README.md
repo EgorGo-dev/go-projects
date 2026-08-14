@@ -4,7 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/EgorGo-dev)
 [![GitHub stars](https://img.shields.io/github/stars/EgorGo-dev/go-projects?style=social)](https://github.com/EgorGo-dev/go-projects)
 
-
 Здесь я храню решения задач по Go из **Яндекс Лицея** и других источников. Репозиторий показывает мой прогресс в изучении языка, владение Git и GitHub.
 
 ---
@@ -35,7 +34,8 @@
 
 ## 📝 Решённые задачи
 
-### ✅ Контрольные работы и сложные задачи
+<details>
+<summary><b>✅ Контрольные работы и сложные задачи</b> (нажмите, чтобы развернуть)</summary>
 
 | Задачи 1–30 | Задачи 31–60 | Задачи 61–90 |
 |-------------|--------------|--------------|
@@ -48,8 +48,8 @@
 | 7.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task7/task7.md) 💻 [Go-решение](./work/task7/task7.go) | 37.&nbsp;📄 [условие](./work/task37/task37.md) 🗄️ [SQL-решение](./work/task37/task37.sql) | 67.&nbsp;📄 [условие](./work/task67/task67.md) 🗄️ [SQL-решение](./work/task67/task67.sql) |
 | 8.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task8/task8.md) 💻 [Go-решение](./work/task8/task8.go) | 38.&nbsp;📄 [условие](./work/task38/task38.md) 🗄️ [SQL-решение](./work/task38/task38.sql) | 68.&nbsp;📄 [условие](./work/task68/task68.md) 🗄️ [SQL-решение](./work/task68/task68.sql) |
 | 9.&nbsp;&nbsp;&nbsp;📄 [условие](./work/task9/task9.md) 💻 [Go-решение](./work/task9/task9.go) | 39.&nbsp;📄 [условие](./work/task39/task39.md) 🗄️ [SQL-решение](./work/task39/task39.sql) | 69.&nbsp;📄 [условие](./work/task69/task69.md) 🗄️ [SQL-решение](./work/task69/task69.sql) |
-| 10.&nbsp;📄 [условие](./work/task10/task10.md) 💻 [Go-решение](./work/task10/task10.go) | 40.&nbsp;📄 [условие](./work/task40/task40.md) 🗄️ [SQL-решение](./work/task40/task40.sql) | 70.&nbsp;— |
-| 11.&nbsp;📄 [условие](./work/task11/task11.md) 💻 [Go-решение](./work/task11/task11.go) | 41.&nbsp;📄 [условие](./work/task41/task41.md) 🗄️ [SQL-решение](./work/task41/task41.sql) | 71.&nbsp;— |
+| 10.&nbsp;📄 [условие](./work/task10/task10.md) 💻 [Go-решение](./work/task10/task10.go) | 40.&nbsp;📄 [условие](./work/task40/task40.md) 🗄️ [SQL-решение](./work/task40/task40.sql) | 70.&nbsp;📄 [условие](./work/task70/task70.md) 🗄️ [SQL-решение](./work/task70/task70.sql) |
+| 11.&nbsp;📄 [условие](./work/task11/task11.md) 💻 [Go-решение](./work/task11/task11.go) | 41.&nbsp;📄 [условие](./work/task41/task41.md) 🗄️ [SQL-решение](./work/task41/task41.sql) | 71.&nbsp;📄 [условие](./work/task71/task71.md) 🗄️ [SQL-решение](./work/task71/task71.sql) |
 | 12.&nbsp;📄 [условие](./work/task12/task12.md) 💻 [Go-решение](./work/task12/task12.go) | 42.&nbsp;📄 [условие](./work/task42/task42.md) 🗄️ [SQL-решение](./work/task42/task42.sql) | 72.&nbsp;— |
 | 13.&nbsp;📄 [условие](./work/task13/task13.md) 💻 [Go-решение](./work/task13/task13.go) | 43.&nbsp;📄 [условие](./work/task43/task43.md) 🗄️ [SQL-решение](./work/task43/task43.sql) | 73.&nbsp;— |
 | 14.&nbsp;📄 [условие](./work/task14/task14.md) 💻 [Go-решение](./work/task14/task14.go) | 44.&nbsp;📄 [условие](./work/task44/task44.md) 🗄️ [SQL-решение](./work/task44/task44.sql) | 74.&nbsp;— |
@@ -70,8 +70,10 @@
 | 29.&nbsp;📄 [условие](./work/task29/task29.md) 💻 [Go-решение](./work/task29/task29.go) | 59.&nbsp;📄 [условие](./work/task59/task59.md) 🗄️ [SQL-решение](./work/task59/task59.sql) | 89.&nbsp;— |
 | 30.&nbsp;📄 [условие](./work/task30/task30.md) 💻 [Go-решение](./work/task30/task30.go) | 60.&nbsp;📄 [условие](./work/task60/task60.md) 🗄️ [SQL-решение](./work/task60/task60.sql) | 90.&nbsp;— |
 
+</details>
 
-## 💀🔥 Сверхсложные задачи — БОСС-УРОВЕНЬ 💀🔥
+<details>
+<summary><b>💀🔥 Сверхсложные задачи — БОСС-УРОВЕНЬ</b> (нажмите, чтобы развернуть)</summary>
 
 > ⚠️ **Внимание!** Эти задачи требуют нестандартного мышления, глубокого понимания **Go** 💻 или **SQL (SQLite)** 🗄️ и железных нервов.  
 > Подходите с осторожностью – здесь не место для слабаков! ⚔️
@@ -84,7 +86,10 @@
 | **4.** | — | — | — | — |
 | **5.** | — | — | — | — |
 
-### 📌 Мелкие задачи
+</details>
+
+<details>
+<summary><b>📌 Мелкие задачи</b> (нажмите, чтобы развернуть)</summary>
 
 Решено **более 150** небольших задач на **Go** и **SQL (SQLite)**:
 
@@ -93,6 +98,8 @@
 **SQL:** выборка (`SELECT`, `FROM`), переименование (`AS`), сортировка (`ORDER BY`), ограничение вывода (`LIMIT`, `OFFSET`), фильтрация (`WHERE`, `IS NOT NULL`), работа со строками (`REPLACE`, `SUBSTR`, `INSTR`, `LENGTH`, `LOWER`, `||`), арифметика и округление (`ROUND`, `CAST`), форматирование (`PRINTF`), удаление дубликатов (`DISTINCT`), вычисляемые столбцы.
 
 *(Они не выложены отдельно, чтобы не загромождать репозиторий.)*
+
+</details>
 
 ---
 
