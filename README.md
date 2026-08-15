@@ -17,6 +17,7 @@
 - 🥇 **Занял 1 место** на курсе «Go-1: шаг за шагом» в Яндекс Лицее.
 - 🥇 **Занял 1 место** на курсе «Go-2: шаг за шагом» в Яндекс Лицее.
 - 🥇 **Занял 1 место** на курсе «Go-3: шаг за шагом» в Яндекс Лицее.
+- 🥇 **Занял 1 место** на курсе «SQL: шаг за шагом» в Яндекс Лицее.
 - Уже решил **более 200 задач** на Go.
 - Активно изучаю **SQL (SQLite)** и решаю задачи по запросам, проектированию таблиц и работе с данными.
 - 🚀 Интересуюсь бэкенд-разработкой, высоконагруженными системами и облачными технологиями.
@@ -61,14 +62,14 @@
 | 20.&nbsp;📄 [условие](./work/task20/task20.md) 💻 [Go-решение](./work/task20/task20.go) | 50.&nbsp;📄 [условие](./work/task50/task50.md) 🗄️ [SQL-решение](./work/task50/task50.sql) | 80.&nbsp;📄 [условие](./work/task80/task80.md) 🗄️ [SQL-решение](./work/task80/task80.sql) |
 | 21.&nbsp;📄 [условие](./work/task21/task21.md) 💻 [Go-решение](./work/task21/task21.go) | 51.&nbsp;📄 [условие](./work/task51/task51.md) 🗄️ [SQL-решение](./work/task51/task51.sql) | 81.&nbsp;📄 [условие](./work/task81/task81.md) 🗄️ [SQL-решение](./work/task81/task81.sql) |
 | 22.&nbsp;📄 [условие](./work/task22/task22.md) 💻 [Go-решение](./work/task22/task22.go) | 52.&nbsp;📄 [условие](./work/task52/task52.md) 🗄️ [SQL-решение](./work/task52/task52.sql) | 82.&nbsp;📄 [условие](./work/task82/task82.md) 🗄️ [SQL-решение](./work/task82/task82.sql) |
-| 23.&nbsp;📄 [условие](./work/task23/task23.md) 💻 [Go-решение](./work/task23/task23.go) | 53.&nbsp;📄 [условие](./work/task53/task53.md) 🗄️ [SQL-решение](./work/task53/task53.sql) | 83.&nbsp;— |
-| 24.&nbsp;📄 [условие](./work/task24/task24.md) 💻 [Go-решение](./work/task24/task24.go) | 54.&nbsp;📄 [условие](./work/task54/task54.md) 🗄️ [SQL-решение](./work/task54/task54.sql) | 84.&nbsp;— |
-| 25.&nbsp;📄 [условие](./work/task25/task25.md) 💻 [Go-решение](./work/task25/task25.go) | 55.&nbsp;📄 [условие](./work/task55/task55.md) 🗄️ [SQL-решение](./work/task55/task55.sql) | 85.&nbsp;— |
-| 26.&nbsp;📄 [условие](./work/task26/task26.md) 💻 [Go-решение](./work/task26/task26.go) | 56.&nbsp;📄 [условие](./work/task56/task56.md) 🗄️ [SQL-решение](./work/task56/task56.sql) | 86.&nbsp;— |
-| 27.&nbsp;📄 [условие](./work/task27/task27.md) 💻 [Go-решение](./work/task27/task27.go) | 57.&nbsp;📄 [условие](./work/task57/task57.md) 🗄️ [SQL-решение](./work/task57/task57.sql) | 87.&nbsp;— |
-| 28.&nbsp;📄 [условие](./work/task28/task28.md) 💻 [Go-решение](./work/task28/task28.go) | 58.&nbsp;📄 [условие](./work/task58/task58.md) 🗄️ [SQL-решение](./work/task58/task58.sql) | 88.&nbsp;— |
-| 29.&nbsp;📄 [условие](./work/task29/task29.md) 💻 [Go-решение](./work/task29/task29.go) | 59.&nbsp;📄 [условие](./work/task59/task59.md) 🗄️ [SQL-решение](./work/task59/task59.sql) | 89.&nbsp;— |
-| 30.&nbsp;📄 [условие](./work/task30/task30.md) 💻 [Go-решение](./work/task30/task30.go) | 60.&nbsp;📄 [условие](./work/task60/task60.md) 🗄️ [SQL-решение](./work/task60/task60.sql) | 90.&nbsp;— |
+| 23.&nbsp;📄 [условие](./work/task23/task23.md) 💻 [Go-решение](./work/task23/task23.go) | 53.&nbsp;📄 [условие](./work/task53/task53.md) 🗄️ [SQL-решение](./work/task53/task53.sql) | 83.&nbsp;📄 [условие](./work/task83/task83.md) 🗄️ [SQL-решение](./work/task83/task83.sql) |
+| 24.&nbsp;📄 [условие](./work/task24/task24.md) 💻 [Go-решение](./work/task24/task24.go) | 54.&nbsp;📄 [условие](./work/task54/task54.md) 🗄️ [SQL-решение](./work/task54/task54.sql) | 84.&nbsp;📄 [условие](./work/task84/task84.md) 🗄️ [SQL-решение](./work/task84/task84.sql) |
+| 25.&nbsp;📄 [условие](./work/task25/task25.md) 💻 [Go-решение](./work/task25/task25.go) | 55.&nbsp;📄 [условие](./work/task55/task55.md) 🗄️ [SQL-решение](./work/task55/task55.sql) | 85.&nbsp;📄 [условие](./work/task85/task85.md) 🗄️ [SQL-решение](./work/task85/task85.sql) |
+| 26.&nbsp;📄 [условие](./work/task26/task26.md) 💻 [Go-решение](./work/task26/task26.go) | 56.&nbsp;📄 [условие](./work/task56/task56.md) 🗄️ [SQL-решение](./work/task56/task56.sql) | 86.&nbsp;📄 [условие](./work/task86/task86.md) 🗄️ [SQL-решение](./work/task86/task86.sql) |
+| 27.&nbsp;📄 [условие](./work/task27/task27.md) 💻 [Go-решение](./work/task27/task27.go) | 57.&nbsp;📄 [условие](./work/task57/task57.md) 🗄️ [SQL-решение](./work/task57/task57.sql) | 87.&nbsp;📄 [условие](./work/task87/task87.md) 🗄️ [SQL-решение](./work/task87/task87.sql) |
+| 28.&nbsp;📄 [условие](./work/task28/task28.md) 💻 [Go-решение](./work/task28/task28.go) | 58.&nbsp;📄 [условие](./work/task58/task58.md) 🗄️ [SQL-решение](./work/task58/task58.sql) | 88.&nbsp;📄 [условие](./work/task88/task88.md) 🗄️ [SQL-решение](./work/task88/task88.sql) |
+| 29.&nbsp;📄 [условие](./work/task29/task29.md) 💻 [Go-решение](./work/task29/task29.go) | 59.&nbsp;📄 [условие](./work/task59/task59.md) 🗄️ [SQL-решение](./work/task59/task59.sql) | 89.&nbsp;📄 [условие](./work/task89/task89.md) 🗄️ [SQL-решение](./work/task89/task89.sql) |
+| 30.&nbsp;📄 [условие](./work/task30/task30.md) 💻 [Go-решение](./work/task30/task30.go) | 60.&nbsp;📄 [условие](./work/task60/task60.md) 🗄️ [SQL-решение](./work/task60/task60.sql) | 90.&nbsp;📄 [условие](./work/task90/task90.md) 🗄️ [SQL-решение](./work/task90/task90.sql) |
 
 </details>
 
@@ -84,7 +85,7 @@
 |-----------|------------|----------------|---------|--------------|
 | **1.** | 📄 [условие](./work/HARDtask1/hardTask.md) | 💻 [решение](./work/HARDtask1/hardTask.go) | **Go** | 🧠🧠🧠 |
 | **2.** | 📄 [условие](./work/HARDtask2/hardTask2.md) | 🗄️ [решение](./work/HARDtask2/hardTask2.sql) | **SQL** | 🧠 |
-| **3.** | — | — | — | — |
+| **3.** | 📄 [условие](./work/HARDtask3/hardTask3.md) | 🗄️ [решение](./work/HARDtask3/hardTask3.sql) | **SQL** | 🧠🧠🧠🧠 |
 | **4.** | — | — | — | — |
 | **5.** | — | — | — | — |
 
@@ -112,10 +113,10 @@
 | 🏆 Go-1 | 🏆 Go-2 |
 |---------|---------|
 | <img src="./certificate/certificate.jpg" width="350" alt="Сертификат Go-1"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 2.jpg" width="350" alt="Сертификат Go-2"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс |
-| <div align="center"><b>🏆 Go-3</b></div> | <div align="center"><b>🏆 SQL (планируется)</b></div> |
-| <img src="./certificate/certificate 3.jpg" width="350" alt="Сертификат Go-3"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <div align="center">*Скоро будет здесь*</div> |
+| <div align="center"><b>🏆 Go-3</b></div> | <div align="center"><b>🏆 SQL</b></div> |
+| <img src="./certificate/certificate 3.jpg" width="350" alt="Сертификат Go-3"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 4.jpg" width="350" alt="Сертификат SQL"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс |
 
-*Сертификаты об успешном завершении курса «Go-1 шаг за шагом», «Go-2 шаг за шагом», «Go-3 шаг за шагом» в Яндекс Лицее.*
+*Сертификаты об успешном завершении курсов «Go-1 шаг за шагом», «Go-2 шаг за шагом», «Go-3 шаг за шагом» и «SQL: шаг за шагом» в Яндекс Лицее.*
 
 ---
 
