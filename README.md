@@ -19,7 +19,7 @@
 - 🥇 **Занял 1 место** на курсе «Go-3: шаг за шагом» в Яндекс Лицее.
 - 🥇 **Занял 1 место** на курсе «SQL: шаг за шагом» в Яндекс Лицее.
 - Уже решил **более 200 задач** на Go.
-- Активно изучаю **SQL (SQLite)** и решаю задачи по запросам, проектированию таблиц и работе с данными.
+- Активно изучаю **SQL (SQLite/PostgreSQL)** и решаю задачи по запросам, проектированию таблиц и работе с данными.
 - 🚀 Интересуюсь бэкенд-разработкой, высоконагруженными системами и облачными технологиями.
 - Всегда открыт к обсуждению кода и новым идеям.
 
@@ -96,23 +96,33 @@
 <details>
 <summary><b>📌 Мелкие задачи</b> (нажмите, чтобы развернуть)</summary>
 
-Решено **более 150** небольших задач на **Go** и **SQL (SQLite)**:
+Решено **более 150** небольших задач на **Go** и **SQL (SQLite + PostgreSQL)**:
 
 **Go:**  
 `циклы`, `условия`, `функции`, `строки`, `массивы`, `слайсы`, `мапы`, `структуры`, `методы`, `конструкторы`, `интерфейсы`, `ошибки`, `тестирование`, **горутины**, **каналы**, **синхронизация** (`sync.Mutex`, `sync.WaitGroup`), **контекст** (`context`), **тестирование конкурентного кода** (`go test -race`).
 
-**SQL (SQLite):**  
-- **Основы:** `SELECT`, `FROM`, `AS`, `ORDER BY`, `LIMIT/OFFSET`, `WHERE`, `AND`, `OR`, `NOT`, `IN`, `BETWEEN`, `LIKE`, `IS NULL`.  
-- **Строки:** `REPLACE`, `SUBSTR`, `INSTR`, `LENGTH`, `LOWER`, `UPPER`, `||`.  
-- **Агрегация:** `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP BY`, `HAVING`, `DISTINCT`.  
-- **Условная логика:** `CASE WHEN`.  
-- **Подзапросы:** `IN`, `EXISTS`, `NOT EXISTS`, подзапросы в `FROM`.  
-- **Соединения:** `INNER JOIN`, `LEFT JOIN`, `SELF JOIN`.  
-- **CTE:** `WITH`.  
-- **Оконные функции:** `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `SUM() OVER`, `AVG() OVER`, `LAG`, `LEAD`, `PARTITION BY`.  
-- **Даты:** `strftime`, `JULIANDAY`.  
+**SQL (общие темы для SQLite и PostgreSQL):**  
+- **Основы:** `SELECT`, `FROM`, `AS`, `WHERE`, `AND`, `OR`, `NOT`, `IN`, `NOT IN`, `BETWEEN`, `LIKE`, `IS NULL`, `IS NOT NULL`, `ORDER BY`, `LIMIT`, `OFFSET`, `DISTINCT`.  
+- **Агрегация:** `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP BY`, `HAVING`.  
+- **Строки:** `||`, `LENGTH`, `LOWER`, `UPPER`, `SUBSTR` (в SQLite) / `SUBSTRING` (в PostgreSQL), `POSITION`.  
 - **Округление и преобразование:** `ROUND`, `CAST`.  
+- **Условная логика:** `CASE WHEN`.  
+- **Подзапросы:** скалярные, `IN`, `EXISTS`, `NOT EXISTS`, подзапросы в `FROM`.  
+- **Соединения:** `INNER JOIN`, `LEFT JOIN`, `SELF JOIN`.  
+- **CTE:** `WITH ... AS`, несколько CTE.  
+- **Оконные функции:** `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `SUM() OVER`, `AVG() OVER`, `LAG`, `LEAD`, `PARTITION BY`, `ORDER BY` в окне.  
 - **Временные таблицы.**
+
+**Специфическое для SQLite:**  
+- Даты: `strftime`, `JULIANDAY`.  
+- Ограничения: `LIMIT`/`OFFSET` (работает чуть иначе, чем в PostgreSQL).
+
+**Специфическое для PostgreSQL:**  
+- Даты: `EXTRACT`, `to_char`, `NOW()`.  
+- Генерация ID: `SERIAL`, `BIGSERIAL`.  
+- Возврат данных: `RETURNING`.  
+- Тип данных: `JSONB`.  
+- Работа с дубликатами, выбор максимума через подзапросы, ранжирование внутри групп.
 
 *(Я не выложил их отдельно, потому что их очень много.)*
 
@@ -125,7 +135,7 @@
 | 🏆 Go-1 | 🏆 Go-2 | 🏆 Go-3 |
 |---------|---------|---------|
 | <img src="./certificate/certificate.jpg" width="300" alt="Сертификат Go-1"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 2.jpg" width="300" alt="Сертификат Go-2"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 3.jpg" width="300" alt="Сертификат Go-3"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс |
-| <div align="center">🏆 **SQL**</div> | <div align="center">🏆 **Веб-разработка на Go** (планируется)</div> | <div align="center">🏆 (планируется)</div> |
+| <div align="center">🏆 **SQL**</div> | <div align="center">🏆 **Веб-разработка на Go** (планируется)</div> | <div align="center">🏆 **PostgreSQL** (планируется)</div> |
 | <img src="./certificate/certificate 4.jpg" width="300" alt="Сертификат SQL"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <div align="center">*Планируется*</div> | <div align="center">*Планируется*</div> |
 
 *Сертификаты об успешном завершении курсов «Go-1 шаг за шагом», «Go-2 шаг за шагом», «Go-3 шаг за шагом», «SQL: шаг за шагом» и планируемом курсе «Веб-разработка на Go» в Яндекс Лицее.*
