@@ -27,7 +27,7 @@
 
 ## 🛠 Стек
 
-**Языки и технологии:** Go · SQLite  
+**Языки и технологии:** Go · SQLite · PostgreSQL
 **Инструменты:** Git · GitHub · VS Code  
 **Пакеты Go:** `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `reflect` · `bytes` · `sync` · `regexp` · `context` · `net/url` · `net/http` · `net/http/httptest` · `testing` · `math`
 
