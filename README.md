@@ -132,8 +132,10 @@
 | 🏆 Go-1 | 🏆 Go-2 | 🏆 Go-3 |
 |---------|---------|---------|
 | <img src="./certificate/certificate.jpg" width="300" alt="Сертификат Go-1"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 2.jpg" width="300" alt="Сертификат Go-2"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 3.jpg" width="300" alt="Сертификат Go-3"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс |
-| <div align="center">🏆 **SQL**</div> | <div align="center">🏆 **Веб-разработка на Go** (планируется)</div> | <div align="center">🏆 **PostgreSQL** (планируется)</div> |
-| <img src="./certificate/certificate 4.jpg" width="300" alt="Сертификат SQL"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <div align="center">*Планируется*</div> | <div align="center">*Планируется*</div> |
+| <div align="center">🏆 **SQL**</div> | <div align="center">🏆 **Математическое мышление**</div> | <div align="center">🏆 **Веб-разработка на Go** (планируется)</div> |
+| <img src="./certificate/certificate 4.jpg" width="300" alt="Сертификат SQL"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <img src="./certificate/certificate 5.jpg" width="300" alt="Сертификат Мат. мышление"> <br> **Егор Геннадьевич Гордеев** <br> self-paced курс | <div align="center">*Планируется*</div> |
+| <div align="center">🏆 **PostgreSQL** (планируется)</div> | <div align="center">🏆 **Скоро**</div> | <div align="center">🏆 **Скоро**</div> |
+| <div align="center">*Планируется*</div> | <div align="center">*Скоро*</div> | <div align="center">*Скоро*</div> |
 
 *Сертификаты об успешном завершении курсов «Go-1 шаг за шагом», «Go-2 шаг за шагом», «Go-3 шаг за шагом», «SQL: шаг за шагом», «Математическое мышление для программистов» и планируемых курсах «Веб-разработка на Go» и «PostgreSQL» в Яндекс Лицее.*
 
