@@ -1,29 +1,25 @@
-package main
+package main 
 
-import "testing"
+import (
+    "fmt"
+)
 
-func TestAdd(t *testing.T) {
-    // Таблица тестов
-    tests := []struct {
-        name string
-        a, b int
-        want int
-    }{
-        {"positive", 2, 3, 5},
-        {"negative_and_positive", -1, 1, 0},
-        {"zeros", 0, 0, 0},
-    }
-
-    for _, tt := range tests {
-        t.Run(tt.name, func(t *testing.T) {
-            got := Add(tt.a, tt.b)
-            if got != tt.want {
-                t.Errorf("Add(%d, %d) = %d; want %d", tt.a, tt.b, got, tt.want)
-            }
-        })
+func describe(input interface{}) string {
+    switch v := input.(type) {
+    case int:
+        return fmt.Sprintf("Это число: %d", v)
+    case string:
+        return fmt.Sprintf("Это строка: %s", v)
+    case bool:
+        return fmt.Sprintf("Это булево значение: %t", v)
+    default:
+        return "Неизвестный тип"
     }
 }
 
-func Add(a, b int) int {
-    return a + b
+func main() {
+    fmt.Println(describe(10))
+    fmt.Println(describe("Егор"))
+    fmt.Println(describe(true))
+    fmt.Println(describe(3.14))
 }
