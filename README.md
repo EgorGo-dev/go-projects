@@ -83,7 +83,7 @@
 | **1.** | 📄 [условие](./work/HARDtask1/hardTask.md) | 💻 [решение](./work/HARDtask1/hardTask.go) | **Go** | 🧠🧠🧠 |
 | **2.** | 📄 [условие](./work/HARDtask2/hardTask2.md) | 🗄️ [решение](./work/HARDtask2/hardTask2.sql) | **SQL** | 🧠 |
 | **3.** | 📄 [условие](./work/HARDtask3/hardTask3.md) | 🗄️ [решение](./work/HARDtask3/hardTask3.sql) | **SQL** | 🧠🧠🧠🧠 |
-| **4.** | — | — | — | — |
+| **4.** | 📄 [условие](./work/HARDtask4/hardTask4.md) | 💻 [решение](./work/HARDtask4/hardTask4.go) | **Go** | 🧠🧠🧠🧠 |
 | **5.** | — | — | — | — |
 
 </details>

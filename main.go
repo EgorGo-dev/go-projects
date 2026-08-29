@@ -4,22 +4,17 @@ import (
     "fmt"
 )
 
-func describe(input interface{}) string {
-    switch v := input.(type) {
-    case int:
-        return fmt.Sprintf("Это число: %d", v)
-    case string:
-        return fmt.Sprintf("Это строка: %s", v)
-    case bool:
-        return fmt.Sprintf("Это булево значение: %t", v)
-    default:
-        return "Неизвестный тип"
-    }
+func Sum(num1, num2 int) string {
+    return fmt.Sprintf("Сумма чисел %d и %d: %d", num1, num2, num1 + num2)
 }
 
 func main() {
-    fmt.Println(describe(10))
-    fmt.Println(describe("Егор"))
-    fmt.Println(describe(true))
-    fmt.Println(describe(3.14))
+    var a, b int 
+    fmt.Print("Введите 2 числа (через пробел): ")
+    _, err := fmt.Scan(&a, &b)
+    if err != nil {
+        fmt.Printf("Ошибка: %v\n", err)
+        return
+    }
+    fmt.Println(Sum(a, b))
 }
