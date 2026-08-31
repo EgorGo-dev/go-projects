@@ -7,6 +7,14 @@
 [![GitHub stars](https://img.shields.io/github/stars/EgorGo-dev/go-projects?style=social)](https://github.com/EgorGo-dev/go-projects)
 [![GitHub last commit](https://img.shields.io/github/last-commit/EgorGo-dev/go-projects)](https://github.com/EgorGo-dev/go-projects)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Go_задач-200%2B-blue?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/SQL_задач-100%2B-green?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/Сертификаты-6-orange?style=for-the-badge&logo=academia" />
+</div>
+
+<br>
+
 Здесь я храню решения задач по Go из **Яндекс Лицея** и других источников. Репозиторий показывает мой прогресс в изучении языка, владение Git и GitHub.
 
 ---
@@ -24,7 +32,9 @@
 
 ## 🛠 Стек
 
-**Языки и технологии:** Go · SQLite · PostgreSQL  
+**Языки и технологии:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) · ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) · ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 **Инструменты:** Git · GitHub · VS Code  
 **Пакеты Go:** `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `reflect` · `bytes` · `sync` · `regexp` · `context` · `net/url` · `net/http` · `net/http/httptest` · `testing` · `math`
 
@@ -124,6 +134,16 @@
 *(Я не выложил их отдельно, потому что их очень много.)*
 
 </details>
+
+---
+
+## 🎯 Мои цели
+
+- [x] Пройти Go-1, Go-2, Go-3, SQL, Мат. мышление, PostgreSQL
+- [ ] Освоить веб-разработку на Go
+- [ ] Изучить Docker
+- [ ] Познакомиться с Kubernetes
+- [ ] Создать свой первый веб-сервис на Go
 
 ---
 
