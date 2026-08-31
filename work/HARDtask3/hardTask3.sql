@@ -12,22 +12,12 @@ WITH client_category_rentals AS (
     GROUP BY r.customer_id, c.category_id, c.name
 ),
 favorite_category AS (
-    SELECT 
+    SELECT DISTINCT ON (customer_id)
         customer_id,
         category_name,
         rentals_in_category
-    FROM (
-        SELECT 
-            customer_id,
-            category_name,
-            rentals_in_category,
-            ROW_NUMBER() OVER (
-                PARTITION BY customer_id 
-                ORDER BY rentals_in_category DESC, category_name ASC
-            ) AS rn
-        FROM client_category_rentals
-    ) ranked
-    WHERE rn = 1
+    FROM client_category_rentals
+    ORDER BY customer_id, rentals_in_category DESC, category_name ASC
 ),
 payment_stats AS (
     SELECT 
