@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/EgorGo--dev-Go%20%26%20SQL%20Developer-00ADD8?style=for-the-badge&logo=go" alt="EgorGo-dev" width="100%">
+</p>
+
 # 🚀 EgorGo-dev — Мои решения задач по Go
 
 [![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go)](https://go.dev/)
@@ -37,6 +41,17 @@
 
 **Инструменты:** Git · GitHub · VS Code  
 **Пакеты Go:** `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `reflect` · `bytes` · `sync` · `regexp` · `context` · `net/url` · `net/http` · `net/http/httptest` · `testing` · `math`
+
+---
+
+## 📊 Прогресс
+
+| Направление | Количество | Статус |
+|-------------|------------|--------|
+| **Задачи на Go** | 200+ | ✅ Активно решаю |
+| **Задачи на SQL** | 100+ | ✅ В процессе изучения |
+| **Сертификаты** | 6 | ✅ Получены |
+| **Текущий курс** | Веб-разработка на Go | 🔄 В процессе |
 
 ---
 
