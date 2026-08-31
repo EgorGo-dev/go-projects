@@ -33,7 +33,7 @@
 ## 🛠 Стек
 
 **Языки и технологии:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) <span style="vertical-align: middle;">·</span> ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) <span style="vertical-align: middle;">·</span> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" style="vertical-align: middle;"> · <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" style="vertical-align: middle;"> · <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" style="vertical-align: middle;">
 
 **Инструменты:** Git · GitHub · VS Code  
 **Пакеты Go:** `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `reflect` · `bytes` · `sync` · `regexp` · `context` · `net/url` · `net/http` · `net/http/httptest` · `testing` · `math`
