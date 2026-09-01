@@ -3,6 +3,7 @@
 [![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go)](https://go.dev/)
 [![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite)](https://sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)](https://postgresql.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/EgorGo-dev)
 [![GitHub stars](https://img.shields.io/github/stars/EgorGo-dev/go-projects?style=social)](https://github.com/EgorGo-dev/go-projects)
 [![GitHub last commit](https://img.shields.io/github/last-commit/EgorGo-dev/go-projects)](https://github.com/EgorGo-dev/go-projects)
