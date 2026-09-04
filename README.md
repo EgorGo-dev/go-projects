@@ -37,18 +37,25 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Инструменты:** Git · GitHub · VS Code  
-**Пакеты Go:** `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `reflect` · `bytes` · `sync` · `regexp` · `context` · `net/url` · `net/http` · `net/http/httptest` · `testing` · `math`
+**Пакеты Go (Стандартная библиотека):** `fmt` · `time` · `strings` · `strconv` · `log` · `errors` · `slices` · `io` · `os` · `sync` · `regexp` · `context` · `net/http` · `testing` · `math`  
+**Пакеты Go (Сторонние):** `go.uber.org/zap`
 
 ---
 
 ## 📊 Прогресс
 
-| Направление | Количество | Статус |
-|-------------|------------|--------|
-| **Задачи на Go** | 200+ | ✅ Активно решаю |
-| **Задачи на SQL** | 100+ | ✅ В процессе изучения |
-| **Сертификаты** | 6 | ✅ Получены |
-| **Текущий курс** | Веб-разработка на Go | 🔄 В процессе |
+<div align="center">
+
+**Задачи на Go:** 200+ ✅  
+![Progress](https://img.shields.io/badge/задач-200%2B-blue?style=for-the-badge)  
+
+**Задачи на SQL:** 100+ ✅  
+![Progress](https://img.shields.io/badge/задач-100%2B-green?style=for-the-badge)  
+
+**Сертификаты:** 6 из 7 🏆  
+![Progress](https://img.shields.io/badge/прогресс-85%25-orange?style=for-the-badge)
+
+</div>
 
 ---
 
