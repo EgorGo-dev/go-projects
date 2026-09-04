@@ -1,12 +1,14 @@
 # 🚀 EgorGo-dev — Мои решения задач по Go
 
-[![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go)](https://go.dev/)
-[![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite)](https://sqlite.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)](https://postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/EgorGo-dev)
-[![GitHub stars](https://img.shields.io/github/stars/EgorGo-dev/go-projects?style=social)](https://github.com/EgorGo-dev/go-projects)
-[![GitHub last commit](https://img.shields.io/github/last-commit/EgorGo-dev/go-projects)](https://github.com/EgorGo-dev/go-projects)
+<div align="center">
+  [![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go)](https://go.dev/)
+  [![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite)](https://sqlite.org/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)](https://postgresql.org/)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/EgorGo-dev)
+  [![GitHub stars](https://img.shields.io/github/stars/EgorGo-dev/go-projects?style=social)](https://github.com/EgorGo-dev/go-projects)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/EgorGo-dev/go-projects)](https://github.com/EgorGo-dev/go-projects)
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go_задач-200%2B-blue?style=for-the-badge&logo=go" />
@@ -18,12 +20,17 @@
 
 Здесь я храню решения задач по Go из **Яндекс Лицея** и других источников. Репозиторий показывает мой прогресс в изучении языка, владение Git и GitHub.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EgorGo-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorGo-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
 ---
 
 ## 👨‍💻 Обо мне
 
 - Мне **14 лет**, начал программировать в 13 с C++, через год перешёл на Go.
-- Учусь в **Яндекс Лицее** (сейчас «Веб-разработка на Go»).
+- 🎓 Учусь в [Яндекс Лицее](https://lyceum.yandex.ru/) (направление: Веб-разработка на Go).
 - 🥇 **1 место** на курсах: Go-1, Go-2, Go-3, SQL.
 - Решил **200+ задач** на Go, активно изучаю SQL (SQLite/PostgreSQL).
 - 🚀 Интересуюсь бэкендом, высоконагруженными системами и облаками.
@@ -33,8 +40,9 @@
 
 ## 🛠 Стек
 
-**Языки и технологии:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Язык:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Базы данных:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Инструменты:** Git · GitHub · VS Code  
 **Пакеты Go:** `fmt` · `time` · `strings` · `strconv` · `log` · `log/slog` · `errors` · `slices` · `io` · `runtime/pprof` · `os` · `unicode/utf8` · `go.uber.org/zap` · `encoding/json` · `reflect` · `bytes` · `sync` · `regexp` · `context` · `net/url` · `net/http` · `net/http/httptest` · `testing` · `math`
@@ -54,11 +62,7 @@
 
 ## 🚀 Мои проекты
 
-*Здесь будут мои собственные проекты, которые я создаю в процессе обучения.*
-
-| Название | Описание | Статус |
-|----------|----------|--------|
-| — | — | — |
+*Здесь появятся мои собственные проекты. Сейчас я активно изучаю веб-разработку на Go и готовлю свой первый веб-сервис!*
 
 ---
 
@@ -187,7 +191,7 @@
 
 ## 🙏 Благодарности
 
-- **Яндекс Лицей** за отличные курсы.
+- **[Яндекс Лицей](https://lyceum.yandex.ru/)** за отличные курсы.
 - Всем, кто поддерживает меня звёздочками и добрыми словами.
 
 ---
