@@ -44,18 +44,12 @@
 
 ## 📊 Прогресс
 
-<div align="center">
-
-**Задачи на Go:** 200+ ✅  
-![Progress](https://img.shields.io/badge/задач-200%2B-blue?style=for-the-badge)  
-
-**Задачи на SQL:** 100+ ✅  
-![Progress](https://img.shields.io/badge/задач-100%2B-green?style=for-the-badge)  
-
-**Сертификаты:** 6 из 7 🏆  
-![Progress](https://img.shields.io/badge/прогресс-85%25-orange?style=for-the-badge)
-
-</div>
+| Направление | Количество | Статус |
+|-------------|------------|--------|
+| **Задачи на Go** | 200+ | ✅ Активно решаю |
+| **Задачи на SQL** | 100+ | ✅ В процессе изучения |
+| **Сертификаты** | 6 из 7 | ✅ Получены |
+| **Текущий курс** | Веб-разработка на Go | 🔄 В процессе |
 
 ---
 
