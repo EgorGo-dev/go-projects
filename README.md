@@ -76,15 +76,15 @@
 
 | № | Тема | Условие | Решение |
 |---|------|---------|---------|
-| 1 | 🔖 Интерфейсы | [📄 условие](./work/task1/task1.md) | [💻 Go-решение](./work/task1/task1.go) |
-| 2 | 🔖 Строки | [📄 условие](./work/task2/task2.md) | [💻 Go-решение](./work/task2/task2.go) |
-| 3 | 🔖 Время | [📄 условие](./work/task3/task3.md) | [💻 Go-решение](./work/task3/task3.go) |
-| 4 | 🔖 Массивы | [📄 условие](./work/task4/task4.md) | [💻 Go-решение](./work/task4/task4.go) |
-| 5 | 🔖 Форматирование | [📄 условие](./work/task5/task5.md) | [💻 Go-решение](./work/task5/task5.go) |
-| 6 | 🔖 Сортировка | [📄 условие](./work/task6/task6.md) | [💻 Go-решение](./work/task6/task6.go) |
-| 7 | 🔖 Потоки | [📄 условие](./work/task7/task7.md) | [💻 Go-решение](./work/task7/task7.go) |
-| 8 | 🔖 Контекст | [📄 условие](./work/task8/task8.md) | [💻 Go-решение](./work/task8/task8.go) |
-| 9 | 🔖 HTTP | [📄 условие](./work/task9/task9.md) | [💻 Go-решение](./work/task9/task9.go) |
+| &nbsp;1 | 🔖 Интерфейсы | [📄 условие](./work/task1/task1.md) | [💻 Go-решение](./work/task1/task1.go) |
+| &nbsp;2 | 🔖 Строки | [📄 условие](./work/task2/task2.md) | [💻 Go-решение](./work/task2/task2.go) |
+| &nbsp;3 | 🔖 Время | [📄 условие](./work/task3/task3.md) | [💻 Go-решение](./work/task3/task3.go) |
+| &nbsp;4 | 🔖 Массивы | [📄 условие](./work/task4/task4.md) | [💻 Go-решение](./work/task4/task4.go) |
+| &nbsp;5 | 🔖 Форматирование | [📄 условие](./work/task5/task5.md) | [💻 Go-решение](./work/task5/task5.go) |
+| &nbsp;6 | 🔖 Сортировка | [📄 условие](./work/task6/task6.md) | [💻 Go-решение](./work/task6/task6.go) |
+| &nbsp;7 | 🔖 Потоки | [📄 условие](./work/task7/task7.md) | [💻 Go-решение](./work/task7/task7.go) |
+| &nbsp;8 | 🔖 Контекст | [📄 условие](./work/task8/task8.md) | [💻 Go-решение](./work/task8/task8.go) |
+| &nbsp;9 | 🔖 HTTP | [📄 условие](./work/task9/task9.md) | [💻 Go-решение](./work/task9/task9.go) |
 | 10 | 🔖 HTTP | [📄 условие](./work/task10/task10.md) | [💻 Go-решение](./work/task10/task10.go) |
 | 11 | 🔖 HTTP | [📄 условие](./work/task11/task11.md) | [💻 Go-решение](./work/task11/task11.go) |
 | 12 | 🔖 HTTP | [📄 условие](./work/task12/task12.md) | [💻 Go-решение](./work/task12/task12.go) |
