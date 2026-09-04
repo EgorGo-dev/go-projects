@@ -191,13 +191,13 @@
 > ⚠️ **Внимание!** Эти задачи требуют нестандартного мышления, глубокого понимания **Go** 💻 или **SQL (SQLite/PostgreSQL)** 🗄️ и железных нервов.  
 > Подходите с осторожностью – здесь не место для слабаков! ⚔️
 
-| ⚡ Задача | 📄 Условие | 💻/🗄️ Решение | 📌 Язык | 🧠 Сложность |
-|-----------|------------|----------------|---------|--------------|
-| **1.** | 📄 [условие](./work/HARDtask1/hardTask.md) | 💻 [решение](./work/HARDtask1/hardTask.go) | **Go** | 🧠🧠🧠 |
-| **2.** | 📄 [условие](./work/HARDtask2/hardTask2.md) | 🗄️ [решение](./work/HARDtask2/hardTask2.sql) | **SQLite** | 🧠 |
-| **3.** | 📄 [условие](./work/HARDtask3/hardTask3.md) | 🗄️ [решение](./work/HARDtask3/hardTask3.sql) | **PostgreSQL** | 🧠🧠🧠🧠 |
-| **4.** | 📄 [условие](./work/HARDtask4/hardTask4.md) | 💻 [решение](./work/HARDtask4/hardTask4.go) | **Go** | 🧠🧠🧠🧠 |
-| **5.** | — | — | — | — |
+| ⚡ Задача | 🔖 Тема | 📄 Условие | 💻/🗄️ Решение | 📌 Язык | 🧠 Сложность |
+|-----------|---------|------------|----------------|---------|--------------|
+| **1.** | 🔖 REST API | 📄 [условие](./work/HARDtask1/hardTask.md) | 💻 [решение](./work/HARDtask1/hardTask.go) | **Go** | 🧠🧠🧠 |
+| **2.** | 🔖 Подзапросы | 📄 [условие](./work/HARDtask2/hardTask2.md) | 🗄️ [решение](./work/HARDtask2/hardTask2.sql) | **SQLite** | 🧠 |
+| **3.** | 🔖 Оконные | 📄 [условие](./work/HARDtask3/hardTask3.md) | 🗄️ [решение](./work/HARDtask3/hardTask3.sql) | **PostgreSQL** | 🧠🧠🧠🧠 |
+| **4.** | 🔖 Параллелизм | 📄 [условие](./work/HARDtask4/hardTask4.md) | 💻 [решение](./work/HARDtask4/hardTask4.go) | **Go** | 🧠🧠🧠🧠 |
+| **5.** | — | — | — | — | — |
 
 </details>
 
